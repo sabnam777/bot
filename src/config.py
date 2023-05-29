@@ -1,0 +1,4 @@
+import os
+
+LEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
+REPLICATE_API_TOKEN = os.environ.get('REPLICATE_API_TOKEN')
