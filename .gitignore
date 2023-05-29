@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.wn
+*.bak
+*.log
+*.tmp
+*.env
+*.DS_Store
